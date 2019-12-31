@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomAttributeForPopOver", "CustomAttributeForPopOver\CustomAttributeForPopOver.csproj", "{EDA028E0-4B2D-4D57-B991-8A8FF4E6A6A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomAttributeForPopOver.Resources", "CustomAttributeForPopOver.Resources\CustomAttributeForPopOver.Resources.csproj", "{566071FB-CDFF-4B43-AA13-D9C6EFE54A4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDA028E0-4B2D-4D57-B991-8A8FF4E6A6A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDA028E0-4B2D-4D57-B991-8A8FF4E6A6A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDA028E0-4B2D-4D57-B991-8A8FF4E6A6A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDA028E0-4B2D-4D57-B991-8A8FF4E6A6A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{566071FB-CDFF-4B43-AA13-D9C6EFE54A4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{566071FB-CDFF-4B43-AA13-D9C6EFE54A4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{566071FB-CDFF-4B43-AA13-D9C6EFE54A4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{566071FB-CDFF-4B43-AA13-D9C6EFE54A4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA971B04-267D-41D0-9C89-2FB29269AF73}
+	EndGlobalSection
+EndGlobal
